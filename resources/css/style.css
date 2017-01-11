@@ -111,6 +111,7 @@ h2:after {
     display: block;
     color: #e67e22;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .icon-small {
@@ -287,6 +288,15 @@ header {
 
 .section-features .long-copy {
     margin-bottom: 30px;
+    text-align: justify;
+}
+
+.justify-para {
+    text-align: justify;
+}
+
+.justify-heading {
+    text-align: center;
 }
 
 
